@@ -32,7 +32,6 @@ pycparser==2.22
 PyJWT==2.8.0
 pyodbc==5.1.0
 python-dateutil==2.9.0.post0
-pywin32==306
 requests==2.32.3
 six==1.16.0
 SQLAlchemy==2.0.30
