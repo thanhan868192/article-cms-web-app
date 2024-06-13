@@ -45,4 +45,4 @@ _Detail how the app and any other needs would have to change for you to change y
 – I need a VM because of security reasons
 
 \*\*\* URL to test my App Service:
-https://articlecmsappservice.azurewebsites.net/
+https://articlecmsweb.azurewebsites.net/
